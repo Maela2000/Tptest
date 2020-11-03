@@ -1,0 +1,13 @@
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\bin\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.exe
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\bin\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.deps.json
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\bin\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\bin\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\bin\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.dll
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\bin\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.pdb
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\obj\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\obj\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\obj\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\obj\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\obj\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.dll
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\obj\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.pdb
+C:\Users\Utilisateur\source\repos\TP1Axel San Maela Le Gall\TP1Axel San Maela Le Gall\obj\Debug\netcoreapp3.1\TP1Axel San Maela Le Gall.genruntimeconfig.cache
